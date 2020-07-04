@@ -1,0 +1,9 @@
+[user]
+	email = ramtech51@comcast.net
+	name = superrm11
+[core]
+	editor = vim
+[credential]
+	helper = store
+[color]
+	ui = auto
