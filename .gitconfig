@@ -1,9 +1,10 @@
 [user]
 	email = ramtech51@comcast.net
-	name = superrm11
+	name = Ryan McGee
 [core]
 	editor = vim
 [credential]
 	helper = store
+	username = superrm11
 [color]
 	ui = auto
