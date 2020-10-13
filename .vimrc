@@ -2,7 +2,6 @@ noremap i k
 noremap k j
 noremap j h
 noremap ; i
-noremap <CR> i
 noremap I 5k
 noremap K 5j
 noremap J b
